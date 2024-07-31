@@ -4,13 +4,9 @@ An application created in paralel of doing an uDemy course around microfrontends
 
 ## Project Screen Shot(s)
 
-#### Example:   
-
 ![microfrontend-app](https://github.com/user-attachments/assets/97d22ef8-0547-4de8-94ca-ee099641d8d3)
 
-## Installation and Setup Instructions
-
-#### Example:  
+## Installation and Setup Instructions 
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
